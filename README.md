@@ -1,3 +1,14 @@
+# Introduction
+
+This repository contains code created by Joelle Barral to process gold standard inversion recovery T1 maps. The original
+code was downloaded from [http://www-mrsrl.stanford.edu/~jbarral/t1map.html](http://www-mrsrl.stanford.edu/~jbarral/t1map.html)
+and contains some additional Matlab files written by Yuhan Ma.
+
+I created this repository on Github so that it could be used as a submodule in other repositories. Joelle's original code will
+not be modified, any modifications will be created by copying the files in separate directories and renaming them.
+
+# Joelle's original README
+
 T<sub>1</sub> Mapping Matlab package
 ------------------------
 

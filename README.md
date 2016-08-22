@@ -5,8 +5,7 @@ This package includes Matlab functions to perform T1 mapping.
 
 It accompanies the journal article:
 Joelle K. Barral, Erik Gudmundson, Nikola Stikov, Maryam Etezadi-Amoli,Petre Stoica, and Dwight G. Nishimura
-"A Robust Methodology for In Vivo T1 Mapping" 
-Magnetic Resonance in Medicine (2010) _in press_ 
+"A robust methodology for in vivo T<sub>1</sub> mapping". Magn. Reson. Med., 64: 1057–1067. (2010) doi:10.1002/mrm.22497
 
 ----------------------------------------------------------------------------
 

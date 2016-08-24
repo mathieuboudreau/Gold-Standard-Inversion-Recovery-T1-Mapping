@@ -58,7 +58,7 @@ while (true)
 		if (isinteger(zz) & zz >= 0 & zz <= nbslice) break;
 		end
 	else
-		zz = 0;
+		zz = cast(0, 'int16');
 		if (isinteger(zz) & zz >= 0 & zz <= nbslice) break;
 		end
 	end	
@@ -181,7 +181,7 @@ while(true)
       break;
     end
   else
-    zz = 0;
+    zz = cast(0,'int16');
     if (isinteger(zz) & zz >= 0 & zz <= nbslice) 
       break;
     end

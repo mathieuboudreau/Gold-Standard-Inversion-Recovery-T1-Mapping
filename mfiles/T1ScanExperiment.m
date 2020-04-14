@@ -12,7 +12,7 @@
 %  (c) Board of Trustees, Leland Stanford Junior University
 
 function T1ScanExperiment(...
-  loadStr, saveStr, method)
+  loadStr, saveStr, method, extra)
 
 % Load the data on which to perform the fit
 load(loadStr);
